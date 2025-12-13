@@ -1,0 +1,123 @@
+ [
+  {
+    "categoryId": 1,
+    "categoryName": "Cereal",
+    "categoryImg": "Cereal3.png"
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Flakes",
+    "categoryImg": "Flakes.png"
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Poha",
+    "categoryImg": "Poha.png"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Kanji Mix",
+    "categoryImg": "KanjiMix.png"
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Flour",
+    "categoryImg": "Flour.png"
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Oat Meal",
+    "categoryImg": "OatsMeal.png"
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "Health Mix",
+    "categoryImg": "HealthMix.png"
+  },
+  {
+    "categoryId": 8,
+    "categoryName": "Dried Banana",
+    "categoryImg": "Bananas.png"
+  },
+      {
+        "categoryId": 9,
+        "categoryName": "Vegetable Oil",
+        "categoryImg": "VegetableOil.png"
+      },
+      {
+        "categoryId": 10,
+        "categoryName": "Eucalyptus Oil",
+        "categoryImg": "EucalyptusOil.png"
+      },
+      {
+        "categoryId": 11,
+        "categoryName": "Cold Pressed Coconut Oil",
+        "categoryImg": "Oil.png"
+      },
+      {
+        "categoryId": 12,
+        "categoryName": "Masala Tea",
+        "categoryImg": "MasalaTea.png"
+      },
+      {
+        "categoryId": 13,
+        "categoryName": "Tea",
+        "categoryImg": "Tea.png"
+      },
+     
+      {
+        "categoryId": 14,
+        "categoryName": "Cardamom",
+        "categoryImg": "Cardamom2.png"
+      },
+      {
+        "categoryId": 15,
+        "categoryName": "Lavanga Pattai",
+        "categoryImg": "LavangaPattai.png"
+      },
+      {
+        "categoryId": 16,
+        "categoryName": "Lavanga Pattai Powder",
+        "categoryImg": "LavangaPattaiPowder.png"
+      },
+      {
+        "categoryId": 17,
+        "categoryName": "Pepper",
+        "categoryImg": "Pepper.png"
+      },
+      {
+        "categoryId": 18,
+        "categoryName": "Star Ansie",
+        "categoryImg": "StarAnsie.png"
+      },
+      {
+        "categoryId": 19,
+        "categoryName": "Star Ansie Powder",
+        "categoryImg": "StarAnsie.png"
+      },
+      {
+        "categoryId": 20,
+        "categoryName": "Turmeric",
+        "categoryImg": "Turmeric.png"
+      },
+      {
+        "categoryId": 21,
+        "categoryName": "Face Serum",
+        "categoryImg": "FaceSerum.png"
+      },
+      {
+        "categoryId": 22,
+        "categoryName": "Face Moistureiser",
+        "categoryImg": "FaceMoistureiser.png"
+      },
+      {
+        "categoryId": 23,
+        "categoryName": "Face Wash",
+        "categoryImg": "FaceWash.png"
+      },
+      {
+        "categoryId": 24,
+        "categoryName": "Face Mask",
+        "categoryImg": "FaceMaskForWomen.png"
+      }
+    ]
