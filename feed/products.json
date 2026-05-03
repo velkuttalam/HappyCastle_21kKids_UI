@@ -1,0 +1,1423 @@
+{
+    "products":  [
+                     {
+                         "id":  1,
+                         "title":  "Montessori Quiet Book",
+                         "description":  "Educational Quiet Books for Montessori learning. Perfect for developing fine motor skills and cognitive abilities in young children.",
+                         "category":  "Educational Books",
+                         "price":  1149.00,
+                         "discountPercentage":  28.14,
+                         "rating":  4.8,
+                         "stock":  15,
+                         "tags":  [
+                                      "educational",
+                                      "montessori",
+                                      "quiet book",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-MQB-001",
+                         "weight":  0.5,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+                                         {
+                                             "rating":  5,
+                                             "comment":  "Excellent quality and my child loves it!",
+                                             "date":  "2024-01-15T10:30:00.000Z",
+                                             "reviewerName":  "Priya Sharma",
+                                             "reviewerEmail":  "priya.sharma@example.com"
+                                         }
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210001",
+                                      "qrCode":  "QR-MQB-001"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  6
+                     },
+                     {
+                         "id":  2,
+                         "title":  "My First 200 Words Preschool Busy Book",
+                         "description":  "Comprehensive vocabulary building book for preschoolers. Includes engaging activities to learn 200 essential words.",
+                         "category":  "Educational Books",
+                         "price":  1149.00,
+                         "discountPercentage":  36.17,
+                         "rating":  4.7,
+                         "stock":  20,
+                         "tags":  [
+                                      "vocabulary",
+                                      "preschool",
+                                      "busy book",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-F200W-002",
+                         "weight":  0.6,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  3.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210002",
+                                      "qrCode":  "QR-F200W-002"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  6
+                     },
+                     {
+                         "id":  3,
+                         "title":  "My First Activity Binder",
+                         "description":  "Interactive activity binder with multiple learning activities for toddlers and preschoolers.",
+                         "category":  "Educational Books",
+                         "price":  780.00,
+                         "discountPercentage":  13.24,
+                         "rating":  4.6,
+                         "stock":  25,
+                         "tags":  [
+                                      "activity",
+                                      "binder",
+                                      "preschool",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-FAB-003",
+                         "weight":  0.4,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210003",
+                                      "qrCode":  "QR-FAB-003"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  true,
+                         "newArrival":  false,
+                         "ageGroup":  3
+                     },
+                     {
+                         "id":  4,
+                         "title":  "Knowledge Book For Little Explorers",
+                         "description":  "Comprehensive knowledge book covering various topics for curious young minds.",
+                         "category":  "Educational Books",
+                         "price":  1850.00,
+                         "discountPercentage":  9.76,
+                         "rating":  4.9,
+                         "stock":  10,
+                         "tags":  [
+                                      "knowledge",
+                                      "educational",
+                                      "explorers",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-KBLE-004",
+                         "weight":  0.8,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  3.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210004",
+                                      "qrCode":  "QR-KBLE-004"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  1
+                     },
+                     {
+                         "id":  5,
+                         "title":  "Colors Busy Book",
+                         "description":  "Interactive busy book to teach colors through engaging activities and games.",
+                         "category":  "Educational Books",
+                         "price":  449.00,
+                         "discountPercentage":  25.04,
+                         "rating":  4.5,
+                         "stock":  30,
+                         "tags":  [
+                                      "colors",
+                                      "busy book",
+                                      "learning",
+                                      "toddler"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-CBB-005",
+                         "weight":  0.3,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210005",
+                                      "qrCode":  "QR-CBB-005"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  5
+                     },
+                     {
+                         "id":  6,
+                         "title":  "Opposites – Interactive Busy Book",
+                         "description":  "Learn about opposites through fun and interactive activities designed for young learners.",
+                         "category":  "Educational Books",
+                         "price":  730.00,
+                         "discountPercentage":  8.64,
+                         "rating":  4.4,
+                         "stock":  18,
+                         "tags":  [
+                                      "opposites",
+                                      "interactive",
+                                      "busy book",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-OIB-006",
+                         "weight":  0.35,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.8
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210006",
+                                      "qrCode":  "QR-OIB-006"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  2
+                     },
+                     {
+                         "id":  7,
+                         "title":  "Learn To Tell Time Busy Book",
+                         "description":  "Time-Telling Busy Book with Clock and Tracing Worksheets. Perfect for teaching kids how to tell time.",
+                         "category":  "Educational Books",
+                         "price":  389.00,
+                         "discountPercentage":  35.06,
+                         "rating":  4.6,
+                         "stock":  22,
+                         "tags":  [
+                                      "time",
+                                      "clock",
+                                      "learning",
+                                      "worksheets"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-LTTB-007",
+                         "weight":  0.4,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210007",
+                                      "qrCode":  "QR-LTTB-007"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  2
+                     },
+                     {
+                         "id":  8,
+                         "title":  "All In One Activity Book – For Preschoolers",
+                         "description":  "All-in-One Activity Busy Book with Educational activities for Ages 1-4.",
+                         "category":  "Educational Books",
+                         "price":  1910.00,
+                         "discountPercentage":  6.83,
+                         "rating":  4.7,
+                         "stock":  12,
+                         "tags":  [
+                                      "activity",
+                                      "preschool",
+                                      "all-in-one",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-AIOAB-008",
+                         "weight":  0.7,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  3.2
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210008",
+                                      "qrCode":  "QR-AIOAB-008"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  true,
+                         "newArrival":  false,
+                         "ageGroup":  3
+                     },
+                     {
+                         "id":  9,
+                         "title":  "Color Pairing Mats",
+                         "description":  "Kids coloring activities and color recognition educational toy. Learn colors through matching activities.",
+                         "category":  "Learning Toys",
+                         "price":  449.00,
+                         "discountPercentage":  25.04,
+                         "rating":  4.3,
+                         "stock":  35,
+                         "tags":  [
+                                      "colors",
+                                      "pairing",
+                                      "mats",
+                                      "educational toy"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-CPM-009",
+                         "weight":  0.2,
+                         "dimensions":  {
+                                            "width":  30.0,
+                                            "height":  20.0,
+                                            "depth":  0.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210009",
+                                      "qrCode":  "QR-CPM-009"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  5
+                     },
+                     {
+                         "id":  10,
+                         "title":  "Princess House – Pretend And Play Busy Book",
+                         "description":  "Princess house themed pretend and play busy book for imaginative play and storytelling.",
+                         "category":  "Pretend Play",
+                         "price":  499.00,
+                         "discountPercentage":  28.61,
+                         "rating":  4.5,
+                         "stock":  18,
+                         "tags":  [
+                                      "princess",
+                                      "pretend play",
+                                      "busy book",
+                                      "imaginative"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-PHPB-010",
+                         "weight":  0.3,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210010",
+                                      "qrCode":  "QR-PHPB-010"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  1
+                     },
+                     {
+                         "id":  11,
+                         "title":  "Shapes Sorter – Shape Recognition For Kids",
+                         "description":  "Shape recognition learning toy for kids. Learn different shapes through sorting activities.",
+                         "category":  "Learning Toys",
+                         "price":  260.00,
+                         "discountPercentage":  0,
+                         "rating":  4.4,
+                         "stock":  40,
+                         "tags":  [
+                                      "shapes",
+                                      "sorter",
+                                      "recognition",
+                                      "learning toy"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-SS-011",
+                         "weight":  0.25,
+                         "dimensions":  {
+                                            "width":  25.0,
+                                            "height":  20.0,
+                                            "depth":  0.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210011",
+                                      "qrCode":  "QR-SS-011"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  6
+                     },
+                     {
+                         "id":  12,
+                         "title":  "Wild Animals Activity Flash Cards",
+                         "description":  "Wild Animals Activity Flash cards for learning about wildlife and animals.",
+                         "category":  "Flash Cards",
+                         "price":  299.00,
+                         "discountPercentage":  25.06,
+                         "rating":  4.5,
+                         "stock":  45,
+                         "tags":  [
+                                      "animals",
+                                      "flash cards",
+                                      "wildlife",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-WAFC-012",
+                         "weight":  0.15,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210012",
+                                      "qrCode":  "QR-WAFC-012"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  false,
+                         "ageGroup":  2
+                     },
+                     {
+                         "id":  13,
+                         "title":  "Animals And Their Youngones – A Busy Book Binder",
+                         "description":  "Learn about animals and their babies through this interactive busy book binder.",
+                         "category":  "Educational Books",
+                         "price":  350.00,
+                         "discountPercentage":  12.28,
+                         "rating":  4.3,
+                         "stock":  28,
+                         "tags":  [
+                                      "animals",
+                                      "youngones",
+                                      "busy book",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-AAYB-013",
+                         "weight":  0.3,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210013",
+                                      "qrCode":  "QR-AAYB-013"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  false,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  4
+                     },
+                     {
+                         "id":  14,
+                         "title":  "Let Make A Pizza",
+                         "description":  "Interactive pretend play activity to learn about making pizza. Great for imaginative play.",
+                         "category":  "Pretend Play",
+                         "price":  380.00,
+                         "discountPercentage":  23.85,
+                         "rating":  4.6,
+                         "stock":  32,
+                         "tags":  [
+                                      "pizza",
+                                      "pretend play",
+                                      "cooking",
+                                      "interactive"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-LMP-014",
+                         "weight":  0.25,
+                         "dimensions":  {
+                                            "width":  25.0,
+                                            "height":  25.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210014",
+                                      "qrCode":  "QR-LMP-014"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  true,
+                         "newArrival":  false,
+                         "ageGroup":  1
+                     },
+                     {
+                         "id":  15,
+                         "title":  "Daily Routine Activity Book",
+                         "description":  "Day to day activities for kids including match the dress and daily routine exercises.",
+                         "category":  "Educational Books",
+                         "price":  470.00,
+                         "discountPercentage":  1.06,
+                         "rating":  4.4,
+                         "stock":  20,
+                         "tags":  [
+                                      "daily routine",
+                                      "activity book",
+                                      "habits",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-DRAB-015",
+                         "weight":  0.35,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.8
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210015",
+                                      "qrCode":  "QR-DRAB-015"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  3
+                     },
+                     {
+                         "id":  16,
+                         "title":  "Emotions Kit",
+                         "description":  "Anger management for children and emotional development tool for toddlers.",
+                         "category":  "Emotional Learning",
+                         "price":  449.00,
+                         "discountPercentage":  0,
+                         "rating":  4.7,
+                         "stock":  25,
+                         "tags":  [
+                                      "emotions",
+                                      "anger management",
+                                      "feelings",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-EK-016",
+                         "weight":  0.3,
+                         "dimensions":  {
+                                            "width":  20.0,
+                                            "height":  25.0,
+                                            "depth":  3.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210016",
+                                      "qrCode":  "QR-EK-016"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  false,
+                         "ageGroup":  4
+                     },
+                     {
+                         "id":  17,
+                         "title":  "Good Habits And Manners Flash Cards",
+                         "description":  "Teaching good habits to children with flashcards. Good habits and manners for toddlers.",
+                         "category":  "Flash Cards",
+                         "price":  499.00,
+                         "discountPercentage":  0,
+                         "rating":  4.5,
+                         "stock":  35,
+                         "tags":  [
+                                      "habits",
+                                      "manners",
+                                      "flash cards",
+                                      "behavior"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-GHMF-017",
+                         "weight":  0.2,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210017",
+                                      "qrCode":  "QR-GHMF-017"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  5
+                     },
+                     {
+                         "id":  18,
+                         "title":  "Good Hygiene Interactive Busy Book",
+                         "description":  "Learn about good hygiene practices through interactive activities designed for young children.",
+                         "category":  "Educational Books",
+                         "price":  299.00,
+                         "discountPercentage":  0,
+                         "rating":  4.6,
+                         "stock":  30,
+                         "tags":  [
+                                      "hygiene",
+                                      "habits",
+                                      "interactive",
+                                      "busy book"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-GHIB-018",
+                         "weight":  0.25,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.2
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210018",
+                                      "qrCode":  "QR-GHIB-018"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  2
+                     },
+                     {
+                         "id":  19,
+                         "title":  "Human Body Activity Book",
+                         "description":  "Comprehensive human body activity book for kids to learn about anatomy and body parts.",
+                         "category":  "Educational Books",
+                         "price":  1149.00,
+                         "discountPercentage":  8.01,
+                         "rating":  4.7,
+                         "stock":  15,
+                         "tags":  [
+                                      "human body",
+                                      "anatomy",
+                                      "activity book",
+                                      "science"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-HBAB-019",
+                         "weight":  0.55,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210019",
+                                      "qrCode":  "QR-HBAB-019"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  2
+                     },
+                     {
+                         "id":  20,
+                         "title":  "Sea Animals Activity Book – Ocean Themed",
+                         "description":  "Sea animals activity book with ocean themed activities. Learn about marine life.",
+                         "category":  "Educational Books",
+                         "price":  399.00,
+                         "discountPercentage":  5.0,
+                         "rating":  4.5,
+                         "stock":  22,
+                         "tags":  [
+                                      "sea animals",
+                                      "ocean",
+                                      "activity book",
+                                      "marine life"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-SAAB-020",
+                         "weight":  0.35,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210020",
+                                      "qrCode":  "QR-SAAB-020"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  true,
+                         "newArrival":  true,
+                         "ageGroup":  3
+                     },
+                     {
+                         "id":  21,
+                         "title":  "Solar System Activity Book",
+                         "description":  "Learn about planets, stars, and the solar system through engaging activities.",
+                         "category":  "Educational Books",
+                         "price":  1149.00,
+                         "discountPercentage":  8.01,
+                         "rating":  4.8,
+                         "stock":  18,
+                         "tags":  [
+                                      "solar system",
+                                      "space",
+                                      "planets",
+                                      "science"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-SSAB-021",
+                         "weight":  0.5,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.5
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210021",
+                                      "qrCode":  "QR-SSAB-021"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  6
+                     },
+                     {
+                         "id":  22,
+                         "title":  "Farm Animals Activity Book",
+                         "description":  "Learn about farm animals through interactive activities and fun exercises.",
+                         "category":  "Educational Books",
+                         "price":  749.00,
+                         "discountPercentage":  0,
+                         "rating":  4.4,
+                         "stock":  25,
+                         "tags":  [
+                                      "farm animals",
+                                      "activity book",
+                                      "animals",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-FAAB-022",
+                         "weight":  0.4,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210022",
+                                      "qrCode":  "QR-FAAB-022"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  5
+                     },
+                     {
+                         "id":  23,
+                         "title":  "Kulanthaiyum Tamilum - குழந்தையும் தமிழும்",
+                         "description":  "Tamil language learning book for children. Learn Tamil alphabet and words.",
+                         "category":  "Language Learning",
+                         "price":  940.00,
+                         "discountPercentage":  10.39,
+                         "rating":  4.6,
+                         "stock":  20,
+                         "tags":  [
+                                      "tamil",
+                                      "language",
+                                      "learning",
+                                      "alphabet"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-KT-023",
+                         "weight":  0.45,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210023",
+                                      "qrCode":  "QR-KT-023"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  3
+                     },
+                     {
+                         "id":  24,
+                         "title":  "Prime Minister And President Flash Cards",
+                         "description":  "Learn about Prime Ministers and Presidents of India through educational flash cards.",
+                         "category":  "Flash Cards",
+                         "price":  299.00,
+                         "discountPercentage":  25.06,
+                         "rating":  4.3,
+                         "stock":  38,
+                         "tags":  [
+                                      "prime minister",
+                                      "president",
+                                      "india",
+                                      "civics"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-PMPF-024",
+                         "weight":  0.15,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210024",
+                                      "qrCode":  "QR-PMPF-024"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  4
+                     },
+                     {
+                         "id":  25,
+                         "title":  "Sea Animals Activity Flash Cards",
+                         "description":  "Learn about sea animals and marine creatures through interactive flash cards.",
+                         "category":  "Flash Cards",
+                         "price":  299.00,
+                         "discountPercentage":  25.06,
+                         "rating":  4.4,
+                         "stock":  40,
+                         "tags":  [
+                                      "sea animals",
+                                      "flash cards",
+                                      "marine",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-SAFC-025",
+                         "weight":  0.15,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210025",
+                                      "qrCode":  "QR-SAFC-025"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  1
+                     },
+                     {
+                         "id":  26,
+                         "title":  "Life Cycle Cards",
+                         "description":  "Learn about life cycles of plants, animals, and insects through educational cards.",
+                         "category":  "Flash Cards",
+                         "price":  299.00,
+                         "discountPercentage":  23.33,
+                         "rating":  4.5,
+                         "stock":  35,
+                         "tags":  [
+                                      "life cycle",
+                                      "science",
+                                      "flash cards",
+                                      "nature"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-LCC-026",
+                         "weight":  0.15,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210026",
+                                      "qrCode":  "QR-LCC-026"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  6
+                     },
+                     {
+                         "id":  27,
+                         "title":  "My Body – Level 1 Preschool Busy Book",
+                         "description":  "Learn about body parts and body awareness through interactive activities for preschoolers.",
+                         "category":  "Educational Books",
+                         "price":  590.00,
+                         "discountPercentage":  40.94,
+                         "rating":  4.6,
+                         "stock":  28,
+                         "tags":  [
+                                      "body parts",
+                                      "anatomy",
+                                      "preschool",
+                                      "busy book"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-MBL1-027",
+                         "weight":  0.35,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  1.8
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210027",
+                                      "qrCode":  "QR-MBL1-027"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  1
+                     },
+                     {
+                         "id":  28,
+                         "title":  "Farm Animals Activity Flash Cards",
+                         "description":  "Learn about farm animals through colorful and interactive flash cards.",
+                         "category":  "Flash Cards",
+                         "price":  299.00,
+                         "discountPercentage":  25.06,
+                         "rating":  4.4,
+                         "stock":  42,
+                         "tags":  [
+                                      "farm animals",
+                                      "flash cards",
+                                      "animals",
+                                      "learning"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-FAFC-028",
+                         "weight":  0.15,
+                         "dimensions":  {
+                                            "width":  15.0,
+                                            "height":  10.0,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210028",
+                                      "qrCode":  "QR-FAFC-028"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  false,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  5
+                     },
+                     {
+                         "id":  29,
+                         "title":  "Alphabet \u0026 Number Road Trip A5 Size",
+                         "description":  "Alphabet and Number Tracing Book for Preschool Writing Practice.",
+                         "category":  "Educational Books",
+                         "price":  350.00,
+                         "discountPercentage":  0,
+                         "rating":  4.5,
+                         "stock":  30,
+                         "tags":  [
+                                      "alphabet",
+                                      "numbers",
+                                      "tracing",
+                                      "writing"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-ANRT-029",
+                         "weight":  0.25,
+                         "dimensions":  {
+                                            "width":  14.8,
+                                            "height":  21.0,
+                                            "depth":  1.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210029",
+                                      "qrCode":  "QR-ANRT-029"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  false,
+                         "bestSeller":  false,
+                         "newArrival":  true,
+                         "ageGroup":  4
+                     },
+                     {
+                         "id":  30,
+                         "title":  "Animals Busy Book – Carnival Of The Animals",
+                         "description":  "Animal busy book for toddlers. Farm animals book for kids with interactive activities.",
+                         "category":  "Educational Books",
+                         "price":  830.00,
+                         "discountPercentage":  3.49,
+                         "rating":  4.6,
+                         "stock":  22,
+                         "tags":  [
+                                      "animals",
+                                      "busy book",
+                                      "toddlers",
+                                      "farm"
+                                  ],
+                         "brand":  "Happy Castle 21kkids",
+                         "sku":  "TTH-ABCA-030",
+                         "weight":  0.4,
+                         "dimensions":  {
+                                            "width":  21.0,
+                                            "height":  29.7,
+                                            "depth":  2.0
+                                        },
+                         "warrantyInformation":  "No warranty",
+                         "shippingInformation":  "Ships in 3-5 business days",
+                         "availabilityStatus":  "In Stock",
+                         "reviews":  [
+
+                                     ],
+                         "returnPolicy":  "7 days return policy",
+                         "minimumOrderQuantity":  1,
+                         "meta":  {
+                                      "createdAt":  "2024-01-01T00:00:00.000Z",
+                                      "updatedAt":  "2024-01-15T10:00:00.000Z",
+                                      "barcode":  "9876543210030",
+                                      "qrCode":  "QR-ABCA-030"
+                                  },
+                         "thumbnail":  "assets/images/home-03/Montessori_Book_1.jpg",
+                         "images":  [
+                                        "assets/images/home-03/Montessori_Book_1.jpg"
+                                    ],
+                         "dealsOfTheDay":  true,
+                         "topRated":  true,
+                         "bestSeller":  false,
+                         "newArrival":  false,
+                         "ageGroup":  4
+                     }
+                 ],
+    "total":  30,
+    "skip":  0,
+    "limit":  30
+}
