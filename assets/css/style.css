@@ -4928,7 +4928,8 @@ body.open-overlay #overlay{
     display: block;
     margin: 6px 0 0;
     font-size: 15px;
-    color: #666666;
+    color: #000000;
+    font-weight: 600;
     line-height: 1;
     font-family: 'Playfair Display', serif;
     font-style: italic;
