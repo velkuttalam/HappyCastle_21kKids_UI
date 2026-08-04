@@ -427,6 +427,59 @@
             "bestSeller": false,
             "newArrival": false,
             "ageGroup": 4
+        },
+        {
+            "id": 9,
+            "title": "My Busy Book For Preschoolers",
+            "description": "My Busy Book For Preschoolers with fun learing on Shapes, Numbers, Colors and other development skills.",
+            "detailedDescription": "My Busy Book For Preschoolers with fun learing on Shapes, Numbers, Colors and other development skills",
+            "category": "Educational Books",
+            "price": 830.00,
+            "discountPercentage": 3.49,
+            "rating": 4.6,
+            "stock": 22,
+            "tags": [
+                "animals",
+                "busy book",
+                "toddlers",
+                "farm"
+            ],
+            "brand": "Happy Castle 21kkids",
+            "sku": "TTH-ABCA-030",
+            "weight": 0.4,
+            "dimensions": {
+                "width": 21.0,
+                "height": 29.7,
+                "depth": 2.0
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-01-01T00:00:00.000Z",
+                "updatedAt": "2024-01-15T10:00:00.000Z",
+                "barcode": "9876543210030",
+                "qrCode": "QR-ABCA-030"
+            },
+            "thumbnail": "assets/images/products/mybusybook/1.png",
+            "images": [
+                "assets/images/products/mybusybook/1.png",
+                "assets/images/products/mybusybook/2.png",
+                "assets/images/products/mybusybook/3.png",
+                "assets/images/products/mybusybook/4.png",
+                "assets/images/products/mybusybook/5.png",
+                "assets/images/products/mybusybook/6.png",
+                "assets/images/products/mybusybook/7.png",
+                "assets/images/products/mybusybook/8.png"
+            ],
+            "dealsOfTheDay": true,
+            "topRated": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "ageGroup": 4
         }
     ],
     "total": 30,
