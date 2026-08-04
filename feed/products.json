@@ -318,9 +318,9 @@
         },
         {
             "id": 7,
-            "title": "Sea Animals Activity Book – Ocean Themed",
-            "description": "Sea animals activity book with ocean themed activities. Learn about marine life.",
-            "detailedDescription": "Sea animals activity book with ocean themed activities. Learn about marine life.",
+            "title": "Ocean Busy Book",
+            "description": "Sea fished and differrnt kind of animals in Ocean Busy Book with ocean themed activities. Learn about marine life.",
+            "detailedDescription": "Sea fished and differrnt kind of animals in Ocean Busy Book with ocean themed activities. Learn about marine life.",
             "category": "Educational Books",
             "price": 399.00,
             "discountPercentage": 5.0,
@@ -352,15 +352,74 @@
                 "barcode": "9876543210020",
                 "qrCode": "QR-SAAB-020"
             },
-            "thumbnail": "assets/images/home-03/Montessori_Book_1.jpg",
+            "thumbnail": "assets/images/products/myoceanbusybook/1.jpg",
             "images": [
-                "assets/images/home-03/Montessori_Book_1.jpg"
+                "assets/images/products/myoceanbusybook/1.png",
+                 "assets/images/products/myoceanbusybook/2.png",
+                 "assets/images/products/myoceanbusybook/3.png",
+                 "assets/images/products/myoceanbusybook/4.png",
+                 "assets/images/products/myoceanbusybook/5.png",
+                 "assets/images/products/myoceanbusybook/6.png",
+                 "assets/images/products/myoceanbusybook/7.png",
+                 "assets/images/products/myoceanbusybook/8.png",
             ],
             "dealsOfTheDay": false,
             "topRated": true,
             "bestSeller": true,
             "newArrival": true,
             "ageGroup": 3
+        },
+        {
+            "id": 8,
+            "title": "My Farm Busy Book",
+            "description": "Farm Animals busy book for toddlers. Farm animals book for kids with interactive activities.",
+            "detailedDescription": "Farm Animal busy book for toddlers. Farm animals book for kids with interactive activities.",
+            "category": "Educational Books",
+            "price": 830.00,
+            "discountPercentage": 3.49,
+            "rating": 4.6,
+            "stock": 22,
+            "tags": [
+                "animals",
+                "busy book",
+                "toddlers",
+                "farm"
+            ],
+            "brand": "Happy Castle 21kkids",
+            "sku": "TTH-ABCA-030",
+            "weight": 0.4,
+            "dimensions": {
+                "width": 21.0,
+                "height": 29.7,
+                "depth": 2.0
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-01-01T00:00:00.000Z",
+                "updatedAt": "2024-01-15T10:00:00.000Z",
+                "barcode": "9876543210030",
+                "qrCode": "QR-ABCA-030"
+            },
+            "thumbnail": "assets/images/products/myfarm/1.png",
+            "images": [
+                "assets/images/products/myfarm/1.png",
+                "assets/images/products/myfarm/2.png",
+                "assets/images/products/myfarm/3.png",
+                "assets/images/products/myfarm/4.png",
+                "assets/images/products/myfarm/5.png",
+                "assets/images/products/myfarm/6.png",
+                "assets/images/products/myfarm/7.png"
+            ],
+            "dealsOfTheDay": true,
+            "topRated": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "ageGroup": 4
         }
     ],
     "total": 30,
