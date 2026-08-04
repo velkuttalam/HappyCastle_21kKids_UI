@@ -272,8 +272,8 @@
         },
         {
             "id": 6,
-            "title": "My First 200 Words Preschool Busy Book",
-            "description": "Comprehensive vocabulary building book for preschoolers. Includes engaging activities to learn 200 essential words.",
+            "title": "My First 300 Words Preschool Busy Book",
+            "description": "Comprehensive vocabulary building book for preschoolers. Includes engaging activities to learn 300 essential words.",
             "detailedDescription": "🧠 21KKIDS Montessori Busy Book\nInteractive Learning Activity for Toddlers (3+ Years)\n\nMake learning fun, engaging, and screen-free with the 21KKIDS Montessori Busy Book — designed to boost early skills through hands-on play and interactive activities.\n\n⭐ Key Features\n🎯 Interactive Montessori Learning\n\nThis busy book includes fun stick-and-unstick Velcro activities that help children improve sorting, matching, and problem-solving skills. Perfect for independent play and quiet time.\n\n📚 15+ Learning Themes\n\nA complete early learning experience with engaging topics:\nAnimals • Fruits • Vegetables • Colours • Shapes • Alphabets • Numbers • Transport • Clothes • Body Parts & more!\n\n💪 Develops Fine Motor Skills\n\nIncludes 16 laminated activity pages and 100+ Velcro pieces to strengthen hand muscles, improve coordination, and enhance finger control.\n\n🧠 Boosts Cognitive Skills\n\nSupports focus, memory, logical thinking, and color recognition — helping children develop strong problem-solving abilities from an early age.\n\n🛡️ Durable, Safe & Reusable\nLaminated & waterproof sheets\nTear-proof and long-lasting design\nSmooth, child-safe edges\nReusable Velcro pieces for endless learning\n🎁 Perfect Gift for Kids\n\nA great choice for:\n✔ Toddlers (3+ years)\n✔ Preschool learning\n✔ Birthday gifts & return gifts\n✔ Travel & quiet time activities\n\n📦 What’s Inside?\n16 Laminated Activity Pages\n100+ Velcro Pieces\nStrong Binding for Easy Use\n👶 Who Is It For?\n\n✔ Toddlers (3+ Years)\n✔ Preschool & Early Learners\n✔ Montessori-Based Learning\n✔ Screen-Free Playtime\n\n🚀 Benefits at a Glance\n\n🧠 Brain Development\n🎯 Learn While Playing\n💪 Improves Motor Skills\n🎉 Engaging Fun Activities\n📚 Hands-On Learning Experience\n.",
             "category": "Educational Books",
             "price": 1149.00,
@@ -306,9 +306,16 @@
                 "barcode": "9876543210002",
                 "qrCode": "QR-F200W-002"
             },
-            "thumbnail": "assets/images/home-03/Montessori_Book_1.jpg",
+            "thumbnail": "assets/images/products/myfirst300words/1.jpg",
             "images": [
-                "assets/images/home-03/Montessori_Book_1.jpg"
+                "assets/images/products/myfirst300words/1.jpg",
+                "assets/images/products/myfirst300words/3.jpg",
+                "assets/images/products/myfirst300words/4.jpg",
+                "assets/images/products/myfirst300words/5.jpg",
+                "assets/images/products/myfirst300words/6.jpg",
+                "assets/images/products/myfirst300words/7.jpg",
+                "assets/images/products/myfirst300words/8.jpg",
+                "assets/images/products/myfirst300words/9.png"
             ],
             "dealsOfTheDay": false,
             "topRated": true,
