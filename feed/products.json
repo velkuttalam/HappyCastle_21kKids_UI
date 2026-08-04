@@ -115,60 +115,6 @@
         },
         {
             "id": 3,
-            "title": "Solar System Activity Book",
-            "description": "Learn about planets, stars, and the solar system through engaging activities.",
-            "detailedDescription": "Learn about planets, stars, and the solar system through engaging activities.",
-            "category": "Educational Books",
-            "price": 1149.00,
-            "discountPercentage": 8.01,
-            "rating": 4.8,
-            "stock": 18,
-            "tags": [
-                "solar system",
-                "space",
-                "planets",
-                "science"
-            ],
-            "brand": "Happy Castle 21kkids",
-            "sku": "TTH-SSAB-021",
-            "weight": 0.5,
-            "dimensions": {
-                "width": 21.0,
-                "height": 29.7,
-                "depth": 2.5
-            },
-            "warrantyInformation": "No warranty",
-            "shippingInformation": "Ships in 3-5 business days",
-            "availabilityStatus": "In Stock",
-            "reviews": [],
-            "returnPolicy": "7 days return policy",
-            "minimumOrderQuantity": 1,
-            "meta": {
-                "createdAt": "2024-01-01T00:00:00.000Z",
-                "updatedAt": "2024-01-15T10:00:00.000Z",
-                "barcode": "9876543210021",
-                "qrCode": "QR-SSAB-021"
-            },
-            "thumbnail": "assets/images/products/solar/1.png",
-            "images": [
-                "assets/images/products/solar/1.png",
-                "assets/images/products/solar/2.png",
-                "assets/images/products/solar/3.png",
-                "assets/images/products/solar/4.png",
-                "assets/images/products/solar/5.png",
-                "assets/images/products/solar/6.png",
-                "assets/images/products/solar/7.png",
-                "assets/images/products/solar/8.png",
-                "assets/images/products/solar/9.png"
-            ],
-            "dealsOfTheDay": false,
-            "topRated": true,
-            "bestSeller": false,
-            "newArrival": true,
-            "ageGroup": 6
-        },
-        {
-            "id": 4,
             "title": "Car Activity Book",
             "description": "Learn about all kinds of cars through engaging activities.",
             "detailedDescription": "Learn about all kinds of cars through engaging activities.",
@@ -220,7 +166,7 @@
             "ageGroup": 6
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "My First Animals Busy Book",
             "description": "My First Animals Busy Book. Animal busy book for toddlers. Farm animals book for kids with interactive activities.",
             "detailedDescription": "Animal busy book for toddlers. Farm animals book for kids with interactive activities.",
@@ -272,7 +218,7 @@
             "ageGroup": 4
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Solar System Busy Book",
             "description": "Learn about the solar system through engaging activities.",
             "detailedDescription": "Learn about the solar system through engaging activities.",
@@ -307,16 +253,16 @@
                 "barcode": "9876543210021",
                 "qrCode": "QR-SSAB-021"
             },
-            "thumbnail": "assets/images/products/solar/1.jpg",
+            "thumbnail": "assets/images/products/solar/1.png",
             "images": [
-                "assets/images/products/solar/1.jpg",
-                "assets/images/products/solar/2.jpg",
-                "assets/images/products/solar/3.jpg",
-                "assets/images/products/solar/4.jpg",
-                "assets/images/products/solar/6.jpg",
-                "assets/images/products/solar/7.jpg",
-                "assets/images/products/solar/8.jpg",
-                "assets/images/products/solar/9.jpg"
+                "assets/images/products/solar/1.png",
+                "assets/images/products/solar/2.png",
+                "assets/images/products/solar/3.png",
+                "assets/images/products/solar/4.png",
+                "assets/images/products/solar/6.png",
+                "assets/images/products/solar/7.png",
+                "assets/images/products/solar/8.png",
+                "assets/images/products/solar/9.png"
             ],
             "dealsOfTheDay": false,
             "topRated": true,
@@ -325,7 +271,7 @@
             "ageGroup": 6
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "My First 200 Words Preschool Busy Book",
             "description": "Comprehensive vocabulary building book for preschoolers. Includes engaging activities to learn 200 essential words.",
             "detailedDescription": "🧠 21KKIDS Montessori Busy Book\nInteractive Learning Activity for Toddlers (3+ Years)\n\nMake learning fun, engaging, and screen-free with the 21KKIDS Montessori Busy Book — designed to boost early skills through hands-on play and interactive activities.\n\n⭐ Key Features\n🎯 Interactive Montessori Learning\n\nThis busy book includes fun stick-and-unstick Velcro activities that help children improve sorting, matching, and problem-solving skills. Perfect for independent play and quiet time.\n\n📚 15+ Learning Themes\n\nA complete early learning experience with engaging topics:\nAnimals • Fruits • Vegetables • Colours • Shapes • Alphabets • Numbers • Transport • Clothes • Body Parts & more!\n\n💪 Develops Fine Motor Skills\n\nIncludes 16 laminated activity pages and 100+ Velcro pieces to strengthen hand muscles, improve coordination, and enhance finger control.\n\n🧠 Boosts Cognitive Skills\n\nSupports focus, memory, logical thinking, and color recognition — helping children develop strong problem-solving abilities from an early age.\n\n🛡️ Durable, Safe & Reusable\nLaminated & waterproof sheets\nTear-proof and long-lasting design\nSmooth, child-safe edges\nReusable Velcro pieces for endless learning\n🎁 Perfect Gift for Kids\n\nA great choice for:\n✔ Toddlers (3+ years)\n✔ Preschool learning\n✔ Birthday gifts & return gifts\n✔ Travel & quiet time activities\n\n📦 What’s Inside?\n16 Laminated Activity Pages\n100+ Velcro Pieces\nStrong Binding for Easy Use\n👶 Who Is It For?\n\n✔ Toddlers (3+ Years)\n✔ Preschool & Early Learners\n✔ Montessori-Based Learning\n✔ Screen-Free Playtime\n\n🚀 Benefits at a Glance\n\n🧠 Brain Development\n🎯 Learn While Playing\n💪 Improves Motor Skills\n🎉 Engaging Fun Activities\n📚 Hands-On Learning Experience\n.",
@@ -371,7 +317,7 @@
             "ageGroup": 6
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "Sea Animals Activity Book – Ocean Themed",
             "description": "Sea animals activity book with ocean themed activities. Learn about marine life.",
             "detailedDescription": "Sea animals activity book with ocean themed activities. Learn about marine life.",
