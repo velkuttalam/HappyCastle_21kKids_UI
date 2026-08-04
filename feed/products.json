@@ -149,17 +149,17 @@
                 "barcode": "9876543210021",
                 "qrCode": "QR-SSAB-021"
             },
-            "thumbnail": "assets/images/products/solar/1.jpg",
+            "thumbnail": "assets/images/products/solar/1.png",
             "images": [
-                "assets/images/products/solar/1.jpg",
-                "assets/images/products/solar/2.jpg",
-                "assets/images/products/solar/3.jpg",
-                "assets/images/products/solar/4.jpg",
-                "assets/images/products/solar/5.jpg",
-                "assets/images/products/solar/6.jpg",
-                "assets/images/products/solar/7.jpg",
-                "assets/images/products/solar/8.jpg",
-                "assets/images/products/solar/9.jpg"
+                "assets/images/products/solar/1.png",
+                "assets/images/products/solar/2.png",
+                "assets/images/products/solar/3.png",
+                "assets/images/products/solar/4.png",
+                "assets/images/products/solar/5.png",
+                "assets/images/products/solar/6.png",
+                "assets/images/products/solar/7.png",
+                "assets/images/products/solar/8.png",
+                "assets/images/products/solar/9.png"
             ],
             "dealsOfTheDay": false,
             "topRated": true,
@@ -203,15 +203,15 @@
                 "barcode": "9876543210021",
                 "qrCode": "QR-SSAB-021"
             },
-            "thumbnail": "assets/images/products/car/1.jpg",
+            "thumbnail": "assets/images/products/car/1.png",
             "images": [
-                "assets/images/products/car/1.jpg",
-                "assets/images/products/car/2.jpg",
-                "assets/images/products/car/3.jpg",
-                "assets/images/products/car/4.jpg",
-                "assets/images/products/car/6.jpg",
-                "assets/images/products/car/7.jpg",
-                "assets/images/products/car/8.jpg"
+                "assets/images/products/car/1.png",
+                "assets/images/products/car/2.png",
+                "assets/images/products/car/3.png",
+                "assets/images/products/car/4.png",
+                "assets/images/products/car/6.png",
+                "assets/images/products/car/7.png",
+                "assets/images/products/car/8.png"
             ],
             "dealsOfTheDay": false,
             "topRated": true,
@@ -255,15 +255,15 @@
                 "barcode": "9876543210030",
                 "qrCode": "QR-ABCA-030"
             },
-            "thumbnail": "assets/images/products/animalbusybook/1.jpg",
+            "thumbnail": "assets/images/products/animalbusybook/1.png",
             "images": [
-                "assets/images/products/animalbusybook/1.jpg",
-                "assets/images/products/animalbusybook/2.jpg",
-                "assets/images/products/animalbusybook/3.jpg",
-                "assets/images/products/animalbusybook/4.jpg",
-                "assets/images/products/animalbusybook/5.jpg",
-                "assets/images/products/animalbusybook/6.jpg",
-                "assets/images/products/animalbusybook/7.jpg"
+                "assets/images/products/animalbusybook/1.png",
+                "assets/images/products/animalbusybook/2.png",
+                "assets/images/products/animalbusybook/3.png",
+                "assets/images/products/animalbusybook/4.png",
+                "assets/images/products/animalbusybook/5.png",
+                "assets/images/products/animalbusybook/6.png",
+                "assets/images/products/animalbusybook/7.png"
             ],
             "dealsOfTheDay": true,
             "topRated": true,
