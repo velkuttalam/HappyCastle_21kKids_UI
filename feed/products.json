@@ -359,7 +359,7 @@
                 "barcode": "9876543210020",
                 "qrCode": "QR-SAAB-020"
             },
-            "thumbnail": "assets/images/products/myoceanbusybook/1.jpg",
+            "thumbnail": "assets/images/products/myoceanbusybook/1.png",
             "images": [
                 "assets/images/products/myoceanbusybook/1.png",
                  "assets/images/products/myoceanbusybook/2.png",
@@ -368,7 +368,7 @@
                  "assets/images/products/myoceanbusybook/5.png",
                  "assets/images/products/myoceanbusybook/6.png",
                  "assets/images/products/myoceanbusybook/7.png",
-                 "assets/images/products/myoceanbusybook/8.png",
+                 "assets/images/products/myoceanbusybook/8.png"
             ],
             "dealsOfTheDay": false,
             "topRated": true,
