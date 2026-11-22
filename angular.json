@@ -17,15 +17,15 @@
         }
       },
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "",
       "prefix": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "docs",
-            "index": "src/index.html",
-            "browser": "src/main.ts",
+            "index": "index.html",
+            "browser": "main.ts",
             "polyfills": [
               "zone.js"
             ],
@@ -35,26 +35,26 @@
                 "glob": "**/*",
                 "input": "public"
               },
-              "src/favicon.ico",
-              "src/assets"
+              "favicon.ico",
+              "assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/assets/css/reset.css",
-              "src/assets/css/bootstrap.css",
-              "src/assets/css/animate.css",
-              "src/assets/css/font-awesome.css",
-              "src/assets/css/themify-icons.css",
-              "src/assets/css/owl-carousel.css",
-              "src/assets/css/flex-slider.min.css",
-              "src/assets/css/jquery-ui.css",
-              "src/assets/css/nice-select.css",
-              "src/assets/css/magnific-popup.min.css",
-              "src/assets/css/slicknav.min.css",
-              "src/assets/css/responsive.css"
+              "styles.css",
+              "assets/css/reset.css",
+              "assets/css/bootstrap.css",
+              "assets/css/animate.css",
+              "assets/css/font-awesome.css",
+              "assets/css/themify-icons.css",
+              "assets/css/owl-carousel.css",
+              "assets/css/flex-slider.min.css",
+              "assets/css/jquery-ui.css",
+              "assets/css/nice-select.css",
+              "assets/css/magnific-popup.min.css",
+              "assets/css/slicknav.min.css",
+              "assets/css/responsive.css"
             ],
             "scripts": [],
-            "server": "src/main.server.ts",
+            "server": "main.server.ts",
             "prerender": false,
             "ssr": false,
             "preserveSymlinks": true
@@ -125,7 +125,7 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "styles.css"
             ],
             "scripts": []
           }
